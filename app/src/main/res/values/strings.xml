@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioBotones</string>
+    <string name="puerta">PUERTA</string>
+    <string name="iluminaci_n">ILUMINACIÓN</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+</resources>
